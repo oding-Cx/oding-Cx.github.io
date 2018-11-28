@@ -12,7 +12,7 @@ nav: true
 - stackoverflow: <http://stackoverflow.com/users/1931027/likebeta>
 - v2ex: <http://www.v2ex.com/member/likebeta>
 - oschina: <http://my.oschina.net/likebeta>
-- douban: <http://www.douban.com/people/kingtouch>
+- douban: <http://www.douban.com/people/146917133>
 - facebook: <https://www.facebook.com/messycode>
 - twitter: <https://twitter.com/likebeta>
 - tqq: <http://t.qq.com/likebeta>
