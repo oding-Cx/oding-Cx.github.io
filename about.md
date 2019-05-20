@@ -24,4 +24,5 @@ about: true
 #### 联系
 
 + [github/oding-Cx](https://github.com/oding-Cx)
+wechat：oding-c
 
