@@ -13,9 +13,9 @@ read: true
         </div>
     </div>
 </article>
-<script src="//cdn.jsdelivr.net/gh/likebeta/cdn/asset/js/douban.api.js"></script>
+<script type="text/javascript" src="/media/js/douban.api.js"></script>
 <script type="text/javascript">
-    let dbapi = new DoubanApi("kingtouch", "0b204112100ace0a2160c33630206a1e");
+    var dbapi = new DoubanApi();
     $(document).ready(function(){
         dbapi.show();
     });
